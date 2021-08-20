@@ -13,7 +13,10 @@ I am an incoming first year PhD student in the [Department of Statistics](https:
 My current research interests include but not limited to Bayesian Nonparametric, graphical models, and machine learning theory.
 
 
-
+                        
+                        
+                        
+                        
 Education
 ======
 PhD in Statistics, University of California, Irvine, USA, 2021 - Expected 2026  
