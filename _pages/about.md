@@ -25,7 +25,6 @@ MS in Statistics, University of Michigan, Ann Arbor, USA, 2019 - 2021
 BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 2016 - 2020  
 ` `  
 ` `  
-` `  
 
 
 Contact
