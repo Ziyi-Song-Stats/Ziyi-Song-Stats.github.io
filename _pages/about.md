@@ -22,7 +22,16 @@ Education
 ======
 PhD in Statistics, University of California, Irvine, USA, 2021 - Expected 2026  
 MS in Statistics, University of Michigan, Ann Arbor, USA, 2019 - 2021  
-BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 2016 - 2020
+BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 2016 - 2020  
+` `  
+` `  
+` `  
+
+
+Contact
+------
+ziyis9@uci.edu  
+
 
 
 
