@@ -10,8 +10,7 @@ redirect_from:
 
 I am an incoming first year PhD student in the [Department of Statistics](https://www.stat.uci.edu/) at the University of California, Irvine. 
 
-My current research interests include but not limited to Bayesian Nonparametric, graphical models, and machine learning theory.  
-` `  
+My current research interests include but not limited to Bayesian Nonparametric, hierarchical mixture models, and machine learning theory.  
 ` `  
 ` `  
 ` `  
