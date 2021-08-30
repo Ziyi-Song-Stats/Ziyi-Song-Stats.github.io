@@ -2,8 +2,7 @@
 permalink: /Miscellanea/
 # title: "Miscellanea"
 ---
-
-## **Core Courses I have taken**
+# **Core Courses I have taken**
 
 **University of Michigan, Ann Arbor**
 - STATS 621 Probability Theory
@@ -25,10 +24,8 @@ permalink: /Miscellanea/
 ` `  
 ` `  
 ` `  
-` `  
-` `  
 
-## **Honors & Awards**
+# **Honors & Awards**
 
 **University of Michigan, Ann Arbor**
 - University Honors, Dec 2019
