@@ -3,10 +3,8 @@ permalink: /Miscellanea/
 # title: "Miscellanea"
 ---
 
-
 Honors & Awards
 ======
-` `  
 
 **University of Michigan, Ann Arbor**
 - University Honors, Dec 2019
