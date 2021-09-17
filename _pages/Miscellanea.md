@@ -4,6 +4,7 @@ title: "Core Courses I have taken"
 ---
 
 **University of Michigan, Ann Arbor**
+- STATS 750 Directed Reading
 - STATS 621 Probability Theory
 - STATS 620 Applied Probability and Stochastic Modeling
 - STATS 611 Large Sample Theory
@@ -16,6 +17,7 @@ title: "Core Courses I have taken"
 - BIOSTAT 675 Survival Analysis
 - STATS 510 Probability Distribution Theory
 - STATS 500 Statistical Learning
+- STATS 499 Honors Seminar
 
 **The Chinese University of Hong Kong, Shenzhen**
 - Stochastic Process, Time Series, Optimization, Multivariate Stats, Data Mining, Statistical Learning, Regression, Inference, Prob & Stats, Linear Algebra, Mathematical Analysis, Calculus, etc.
