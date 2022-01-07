@@ -3,6 +3,16 @@ permalink: /Miscellanea/
 title: "Core Courses I have taken"
 ---
 
+
+**University of California, Irvine**
+- STATS 220B Advanced Probability and Statistics Topics II
+- STATS 220A Advanced Probability and Statistics Topics I
+- STATS 211 Statistical Methods II: Generalized Linear Models
+- STATS 210 Statistical Methods I: Linear Models
+- STATS 200B Intermediate Probability and Statistical Theory
+- STATS 200A Intermediate Probability and Statistical Theory
+
+
 **University of Michigan, Ann Arbor**
 - STATS 750 Directed Reading
 - STATS 621 Probability Theory
@@ -18,6 +28,7 @@ title: "Core Courses I have taken"
 - STATS 510 Probability Distribution Theory
 - STATS 500 Statistical Learning
 - STATS 499 Honors Seminar
+
 
 **The Chinese University of Hong Kong, Shenzhen**
 - Stochastic Process, Time Series, Optimization, Multivariate Stats, Data Mining, Statistical Learning, Regression, Inference, Prob & Stats, Linear Algebra, Mathematical Analysis, Calculus, etc.
