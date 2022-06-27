@@ -7,10 +7,12 @@ title: "Core Courses I have taken"
 **University of California, Irvine**
 - STATS 220B Advanced Probability and Statistics Topics II
 - STATS 220A Advanced Probability and Statistics Topics I
+- STATS 212 Statistical Methods III: Methods for Correlated Data
 - STATS 211 Statistical Methods II: Generalized Linear Models
 - STATS 210 Statistical Methods I: Linear Models
-- STATS 200B Intermediate Probability and Statistical Theory
-- STATS 200A Intermediate Probability and Statistical Theory
+- STATS 200C Intermediate Probability and Statistical Theory III
+- STATS 200B Intermediate Probability and Statistical Theory II
+- STATS 200A Intermediate Probability and Statistical Theory I
 
 
 **University of Michigan, Ann Arbor**
