@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in the [Department of Statistics](https://www.stat.uci.edu/) at the University of California, Irvine. 
+I am a third year PhD student in the [Department of Statistics](https://www.stat.uci.edu/) at the University of California, Irvine. 
 
 My current research interests focus on Bayesian Nonparametric, random partition models, hierarchical mixture models, and Bayesian statistics.  
 ` `  
