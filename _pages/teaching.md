@@ -7,6 +7,8 @@ title: "Teaching"
 
 ## University of California, Irvine
 - **Teaching Assistant**
+   - STATS 295: Causal Machine Learning (Fall 2024)
+   - STATS 210: Statistics Methods I (Fall 2024)
    - STATS 211P: Statistical Methods II (Spring 2024)
    - STATS 120A/281A: Introduction to Probability and Statistics I (Fall 2023)
    - STATS 68: Statistical Computing and Exploratory Data Analysis (Spring 2023)
