@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently visiting the University of Milano-Bicocca, Milano, working with [Prof. Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/).
+I am currently visiting the University of Milano-Bicocca, Milano, working with [Prof. Federico Camerlenghi](https://sites.google.com/unimib.it/camerlenghi-federico/) and [Prof. Mario Beraha](https://sites.google.com/view/marioberaha).
 
 I am a PhD candidate in the [Department of Statistics](https://www.stat.uci.edu/) at the University of California, Irvine. I work with [Prof. Michele Guindani](https://www.micheleguindani.info/) and [Prof. Weining Shen](https://faculty.sites.uci.edu/weinings/).
 
