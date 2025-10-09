@@ -9,7 +9,7 @@ author_profile: true
 - **Song, Z.**, Cemerlenghi, F., Shen, W., Guindani, M., Beraha, M. (2025). **Repulsive Mixture Model with Projection Determinantal Point Process** arXiv
 
 ## In Preparation
-- **Song, Z.**, et al. (2025+). **Multi-view Clustering on EEG and Computer Mouse Tracking data** in preparation
+- **Song, Z.**, et al. (2025+). **Multi-view Clustering across EEG Data and Computer Mouse Tracking Data** in preparation
   
 - **Song, Z.**, et al. (2025+). **Discovering Hidden Treatment Effect Heterogeneity in Null Clinical Trials: A Causal Bayesian Nonparametric Approach** working in progress
 
