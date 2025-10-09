@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Under Review / Preprints
+- **Song, Z.**, Cemerlenghi, F., Shen, W., Guindani, M., Beraha, M. (2025). **Repulsive Mixture Model with Projection Determinantal Point Process** arXiv 
+
 ## Published / Accepted
 - **Song, Z.**, Shen, W., Vannucci, M., Baldizon, A., Cinciripini, P.M., Versace, F. and Guindani, M. (2024). **Clustering Computer Mouse Tracking Data with Informed Hierarchical Shrinkage Partition Priors.** *Biometrics*, in press. [Journal](https://doi.org/10.1093/biomtc/ujae124) [arXiv](https://doi.org/10.48550/arXiv.2410.22675)  [GitHub](https://github.com/Ziyi-Song-Stats/HSP.git)
 
-## Under Review / Preprints
-- **Bayesian repulsive mixture model with projection Determinantal point process** in preparation
+
