@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Under Review / Preprints
-- **Song, Z.**, Cemerlenghi, F., Shen, W., Guindani, M., Beraha, M. (2025). **Repulsive Mixture Model with Projection Determinantal Point Process** arXiv
+- **Song, Z.**, Cemerlenghi, F., Shen, W., Guindani, M., Beraha, M. (2025). **Repulsive Mixture Model with Projection Determinantal Point Process** [arXiv](https://arxiv.org/abs/2510.08838)
 
 ## In Preparation
 - **Song, Z.**, et al. (2025+). **Multi-view Clustering across EEG Data and Computer Mouse Tracking Data** in preparation
