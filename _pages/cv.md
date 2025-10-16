@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 
-You can download a PDF copy of my CV [here](/files/Ziyi_Song_CV.pdf).
+You can download a PDF copy of my CV [here](http://Ziyi-Song-Stats.github.io/files/Ziyi_Song_CV.pdf).
+
