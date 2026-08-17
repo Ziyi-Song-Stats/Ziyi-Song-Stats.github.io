@@ -21,7 +21,7 @@ Starting in September 2026, I will be a CosmicAI Postdoctoral Fellow in the [Dep
 
 Education
 ======
-PhD in Statistics, University of California, Irvine, USA, 2021 - Expected 2026  
+PhD in Statistics, University of California, Irvine, USA, 2021 - 2026  
 MS in Statistics, University of Michigan, Ann Arbor, USA, 2019 - 2021  
 BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 2016 - 2020  
 ` `  
@@ -30,7 +30,8 @@ BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 201
 
 Contact
 ------
-ziyis9@uci.edu  
+primary: ziyi.song@austin.utexas.edu
+secondary: ziyis9@uci.edu  
 
 
 
