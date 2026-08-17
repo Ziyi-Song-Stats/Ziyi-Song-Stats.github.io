@@ -30,8 +30,9 @@ BS in Statistical Science, Chinese University of Hong Kong, Shenzhen, China, 201
 
 Contact
 ------
-primary: ziyi.song@austin.utexas.edu
-secondary: ziyis9@uci.edu  
+[primary] ziyi.song@austin.utexas.edu
+
+[secondary] ziyis9@uci.edu  
 
 
 
