@@ -12,6 +12,8 @@ author_profile: true
 - **Song, Z.**, Cemerlenghi, F., Shen, W., Guindani, M., Beraha, M. (2025). **Repulsive Mixture Model with Projection Determinantal Point Process** under revision of Journal of the American Statistical Association T&M [arXiv](https://arxiv.org/abs/2510.08838) ([SBSS Student Paper Award 2026, American Statistical Association](https://community.amstat.org/sbss/awards), also selected for 2026 ASA Stats in Imaging Student Paper Runner-up)
 
 ## In Preparation
+- **Song, Z.**, et al. (2026+). **Tail-Enforced Stick Breaking for Accelerated Latent Recovery in Infinite Gaussian Mixtures** in preparation
+
 - **Song, Z.**, et al. (2025+). **Multi-view Functional Clustering for the Joint Analysis of EEG Data and Computer Mouse Tracking Data** in preparation
   
 - **Song, Z.**, et al. (2025+). **Discovering Hidden Treatment Effect Heterogeneity in Null Clinical Trials: A Causal Bayesian Nonparametric Approach** in preparation
