@@ -19,7 +19,7 @@ author_profile: true
 - **Song, Z.**, et al. (2025+). **Discovering Hidden Treatment Effect Heterogeneity in Null Clinical Trials: A Causal Bayesian Nonparametric Approach** in preparation
 
 ## Applications
-- Niu, J., **Song, Z.**, Shen, W. (2026) **Sex Estimation from Footwear Outsole Impressions Using CNN Transfer Learning and Interpretable Image Statistics** submitted [arXiv](https://arxiv.org/pdf/2609.25386)
+- Niu, J., **Song, Z.**, Shen, W. (2026) **Sex Estimation from Footwear Outsole Impressions Using CNN Transfer Learning and Interpretable Image Statistics** submitted [arXiv](https://arxiv.org/abs/2609.25386)
 
 
 
