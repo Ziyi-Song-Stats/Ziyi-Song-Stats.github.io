@@ -1,0 +1,245 @@
+/* Minimal academic theme for ziyi-song-stats.github.io */
+
+:root {
+  --bg: #ffffff;
+  --bg-home: #f5f5f5;
+  --text: #1e1e1e;
+  --muted: #6c6c6c;
+  --border: #e6e6e6;
+  --button: #e3e3e3;
+  --button-hover: #d3d3d3;
+  --me: #1f5fbf;
+  --venue: #b3261e;
+  --initials-bg: #dcdcdc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1d1e20;
+    --bg-home: #1d1e20;
+    --text: #dadadb;
+    --muted: #9b9c9d;
+    --border: #333437;
+    --button: #2e2f33;
+    --button-hover: #3b3c41;
+    --me: #82aaff;
+    --venue: #ff8a80;
+    --initials-bg: #2e2f33;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+}
+
+body.home { background: var(--bg-home); }
+
+a { color: inherit; }
+
+/* ---------- Header (inner pages) ---------- */
+.site-header {
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 24px;
+  min-height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 24px;
+}
+.site-name {
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+.site-nav { display: flex; flex-wrap: wrap; gap: 4px 22px; }
+.site-nav a {
+  text-decoration: none;
+  padding: 4px 0;
+  border-bottom: 2px solid transparent;
+}
+.site-nav a:hover,
+.site-nav a.active { border-bottom-color: currentColor; }
+
+/* ---------- Main content ---------- */
+.main {
+  flex: 1;
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 24px 24px;
+}
+.page-title {
+  font-size: 40px;
+  line-height: 1.2;
+  margin: 0 0 24px;
+}
+.page-content h2 {
+  font-size: 24px;
+  margin: 36px 0 12px;
+}
+.page-content h3 {
+  font-size: 19px;
+  margin: 24px 0 8px;
+}
+.page-content p,
+.page-content ul,
+.page-content ol { margin: 0 0 14px; }
+.page-content li { margin-bottom: 4px; }
+.page-content a {
+  text-decoration: none;
+  box-shadow: 0 1px 0 currentColor;
+}
+.page-content a:hover { box-shadow: 0 2px 0 currentColor; }
+.muted { color: var(--muted); }
+
+/* ---------- Home / profile ---------- */
+.main-home {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 24px 24px;
+}
+.profile { text-align: center; max-width: 900px; }
+.profile-photo {
+  width: 360px;
+  max-width: 80vw;
+  height: auto;
+  border-radius: 6px;
+}
+.profile-initials {
+  width: 160px;
+  height: 160px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: var(--initials-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 56px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--muted);
+}
+.profile-name {
+  font-size: 40px;
+  line-height: 1.2;
+  margin: 18px 0 6px;
+}
+.profile-name-extra {
+  margin: 0 0 10px;
+  font-size: 15px;
+  color: var(--muted);
+}
+.name-audio {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  margin-left: 4px;
+  padding: 2px;
+  border: 0;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+}
+.name-audio svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.name-audio:hover { color: var(--text); }
+.profile-tagline { margin: 0 0 4px; }
+.profile-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  margin: 18px 0 22px;
+}
+.profile-icons a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+.profile-icons svg {
+  width: 24px;
+  height: 24px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.profile-icons .icon-text { font-weight: 700; font-size: 18px; }
+.profile-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+.button {
+  display: inline-block;
+  padding: 7px 16px;
+  border-radius: 8px;
+  background: var(--button);
+  text-decoration: none;
+  font-size: 16px;
+}
+.button:hover { background: var(--button-hover); }
+
+/* ---------- Publications ---------- */
+.fav-note {
+  padding: 12px 16px;
+  border-left: 3px solid var(--venue);
+  background: var(--bg-home);
+  border-radius: 0 6px 6px 0;
+}
+.pubs { padding-left: 1.4em; }
+.pubs > li { margin-bottom: 18px; }
+.pub-title { font-weight: 700; }
+.fav { margin-left: 4px; font-size: 0.95em; cursor: default; }
+.me { color: var(--me); font-weight: 700; }
+.pub-venue { color: var(--venue); font-style: italic; }
+.pub-note { color: var(--muted); font-size: 15px; }
+.pub-links { font-size: 15px; }
+.pub-links .sep {
+  margin: 0 7px;
+  color: var(--muted);
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  text-align: center;
+  font-size: 13px;
+  color: var(--muted);
+  padding: 24px;
+}
+
+/* ---------- Small screens ---------- */
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  .header-inner { padding: 10px 16px; }
+  .main { padding: 28px 16px 16px; }
+  .page-title, .profile-name { font-size: 32px; }
+}

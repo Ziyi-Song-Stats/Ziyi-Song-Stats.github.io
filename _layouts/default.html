@@ -1,31 +1,42 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌺</text></svg>">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if jekyll.environment == "production" %}
+    {% if site.analytics.google_id %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google_id }}"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.analytics.google_id }}');</script>
+    {% endif %}
+    {% if site.analytics.goatcounter %}
+    <script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    {% endif %}
+  {% endif %}
+</head>
+<body class="{% if page.layout == 'home' %}home{% else %}inner{% endif %}">
+  {% unless page.layout == 'home' %}
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+      <nav class="site-nav" aria-label="Main">
+        {% for item in site.navigation %}
+          {% assign item_url = item.url | relative_url %}
+          <a href="{{ item_url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </nav>
     </div>
+  </header>
+  {% endunless %}
 
-    {% include scripts.html %}
+  <main class="{% if page.layout == 'home' %}main-home{% else %}main{% endif %}">
+    {{ content }}
+  </main>
 
-  </body>
+  <footer class="site-footer">
+    &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+  </footer>
+</body>
 </html>

@@ -1,0 +1,60 @@
+# Publications shown on the Research page.
+# - Add `favorite: true` to show a 🌺 next to a paper.
+# - Your name is highlighted automatically wherever "Ziyi Song" appears in `authors`.
+# - `links` is optional; each link needs a name and a url.
+
+journal:
+  - title: "Clustering Computer Mouse Tracking Data with Informed Hierarchical Shrinkage Partition Priors"
+    authors: "Ziyi Song, Weining Shen, Marina Vannucci, Alexandria Baldizon, Paul M. Cinciripini, Francesco Versace, and Michele Guindani"
+    venue: "Biometrics"
+    details: "80(4): ujae124, 2024"
+    note: "NSF Travel Award, ICSA Applied Statistics Symposium, 2025"
+    links:
+      - name: Journal
+        url: https://doi.org/10.1093/biomtc/ujae124
+      - name: arXiv
+        url: https://arxiv.org/abs/2410.22675
+      - name: Code
+        url: https://github.com/Ziyi-Song-Stats/HSP
+
+submitted:
+  - title: "Repulsive Mixture Model with Projection Determinantal Point Process"
+    authors: "Ziyi Song, Federico Camerlenghi, Weining Shen, Michele Guindani, and Mario Beraha"
+    venue: "Journal of the American Statistical Association (Theory & Methods)"
+    details: "invited resubmission"
+    note: "ASA Section on Bayesian Statistical Science Student Paper Award, 2026; ASA Section on Statistics in Imaging Student Paper Competition, Runner-up, 2026; IMS Hannan Graduate Student Travel Award, 2025"
+    favorite: true
+    links:
+      - name: arXiv
+        url: https://arxiv.org/abs/2510.08838
+
+  - title: "Sex Estimation from Footwear Outsole Impressions Using CNN Transfer Learning and Interpretable Image Statistics"
+    authors: "Jinyi Niu, Ziyi Song, and Weining Shen"
+    venue: "Submitted"
+    details: "2026"
+    links:
+      - name: arXiv
+        url: https://arxiv.org/abs/2609.25386
+
+in_preparation:
+  - title: "How Many Patients Gain or Lose Progression-Free Time? A Bayesian Sensitivity Analysis of Individual Benefit and Harm in the PRIME Colorectal Cancer Trial"
+    authors: "Ziyi Song et al."
+    with: "F. J. Bargagli-Stoffi and M. Guindani"
+    favorite: true
+
+  - title: "Paired Multi-Fidelity Generative Modeling"
+    authors: "Ziyi Song et al."
+    with: "A. Farahi, A. Rinaldo, and S. Roy"
+    favorite: true
+
+  - title: "Multi-View Clustering of Computer Mouse Tracking and ERP Data via Joint Random Partition Priors"
+    authors: "Ziyi Song et al."
+    with: "A. Cremaschi, M. Guindani, W. Shen, M. Vannucci, and F. Versace"
+
+  - title: "Tail-Enveloped Species Sampling Priors: Controlling Cluster Growth in Misspecified Mixture Models"
+    authors: "Ziyi Song et al."
+    with: "N. Bariletto, N. Ho, and A. Rinaldo"
+
+  - title: "Repulsive Dependent Mixtures with Exponentially Tilted Weights for Comparative Immune Profiling"
+    authors: "Ziyi Song et al."
+    with: "M. Micaglio and P. Müller"

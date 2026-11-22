@@ -1,0 +1,12 @@
+{% comment %} Renders a list of publications. Usage: {% include pub-list.html pubs=site.data.publications.journal %} {% endcomment %}
+<ol class="pubs">
+{% for pub in include.pubs %}
+  <li>
+    <div class="pub-title">{{ pub.title }}{% if pub.favorite %}<span class="fav" title="Personal favorite" aria-label="Personal favorite">🌺</span>{% endif %}</div>
+    <div class="pub-authors">Authors: {{ pub.authors | replace: "Ziyi Song", '<span class="me">Ziyi Song</span>' }}{% if pub.with %} (joint work with {{ pub.with }}){% endif %}</div>
+    {% if pub.venue %}<div><span class="pub-venue">{{ pub.venue }}</span>{% if pub.details %}, {{ pub.details }}{% endif %}</div>{% endif %}
+    {% if pub.note %}<div class="pub-note">{{ pub.note }}</div>{% endif %}
+    {% if pub.links %}<div class="pub-links">{% for l in pub.links %}{% unless forloop.first %}<span class="sep">|</span>{% endunless %}<a href="{{ l.url }}">{{ l.name }}</a>{% endfor %}</div>{% endif %}
+  </li>
+{% endfor %}
+</ol>

@@ -1,10 +1,10 @@
 ---
+title: Core Courses I Have Taken
 permalink: /Miscellanea/
-title: "Core Courses I have taken"
 ---
 
+### University of California, Irvine
 
-**University of California, Irvine**
 - STATS 220B Advanced Probability and Statistics Topics II
 - STATS 220A Advanced Probability and Statistics Topics I
 - STATS 212 Statistical Methods III: Methods for Correlated Data
@@ -14,8 +14,8 @@ title: "Core Courses I have taken"
 - STATS 200B Intermediate Probability and Statistical Theory II
 - STATS 200A Intermediate Probability and Statistical Theory I
 
+### University of Michigan, Ann Arbor
 
-**University of Michigan, Ann Arbor**
 - STATS 750 Directed Reading
 - STATS 621 Probability Theory
 - STATS 620 Applied Probability and Stochastic Modeling
@@ -31,25 +31,15 @@ title: "Core Courses I have taken"
 - STATS 500 Statistical Learning
 - STATS 499 Honors Seminar
 
+### The Chinese University of Hong Kong, Shenzhen
 
-**The Chinese University of Hong Kong, Shenzhen**
-- Stochastic Process, Time Series, Optimization, Multivariate Stats, Data Mining, Statistical Learning, Regression, Inference, Prob & Stats, Linear Algebra, Mathematical Analysis, Calculus, etc.
-` `  
-` `  
-` `  
-` `  
-` `  
+- Stochastic Process, Time Series, Optimization, Multivariate Statistics, Data Mining, Statistical Learning, Regression, Inference, Probability and Statistics, Linear Algebra, Mathematical Analysis, Calculus
 
+### Honors
 
-# **Honors & Awards**
-
-**University of Michigan, Ann Arbor**
-- University Honors, Dec 2019
-` `  
-
-**The Chinese University of Hong Kong, Shenzhen**
-- Degree of B.S. with Honours, First Class, July 2020
-- Academic Performance Scholarship, Dec 2018
-- Undergraduate Research Award, 2018 & 2019
-- Dean's List, 2018 & 2019
-- Master's List, 2018 & 2019
+- University Honors, University of Michigan, Dec. 2019
+- B.S. with Honours, First Class, The Chinese University of Hong Kong, Shenzhen, Jul. 2020
+- Academic Performance Scholarship, Dec. 2018
+- Undergraduate Research Award, 2018 and 2019
+- Dean's List, 2018 and 2019
+- Master's List, 2018 and 2019

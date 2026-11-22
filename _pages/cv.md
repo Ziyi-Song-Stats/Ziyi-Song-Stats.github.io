@@ -1,12 +1,12 @@
 ---
-layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
+[Download my CV (PDF)]({{ site.cv | relative_url }})
 
-You can download a PDF copy of my CV [here](https://ziyi-song-stats.github.io/files/Ziyi_Song_CV.pdf)
-
+<object class="cv-embed" data="{{ site.cv | relative_url }}" type="application/pdf" width="100%" height="900">
+  <p>Your browser cannot display the PDF here. Please use the download link above.</p>
+</object>
