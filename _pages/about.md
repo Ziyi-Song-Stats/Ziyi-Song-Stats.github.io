@@ -11,11 +11,11 @@ I received my PhD in Statistics from the [University of California, Irvine](http
 
 ## Research Interests
 
-I develop machine learning and statistical methods for reliable AI in science, with applications in astrophysics and cosmology, oncology, and neuroscience.
+I develop machine learning and statistical methods for reliable AI in science, with applications in astrophysics and cosmology, biomedicine, and neuroscience.
 
 - **Generative AI for science:** deep generative models, flow matching, rectified flow, simulation-based inference, and multi-fidelity learning.
-- **Probabilistic machine learning:** Bayesian nonparametrics, posterior theory, and exact MCMC algorithms.
-- **Causal machine learning:** heterogeneous treatment effects in clinical trials and survival analysis.
+- **Probabilistic machine learning:** Bayesian nonparametrics, mixture models and clustering, determinantal point processes, and MCMC algorithms.
+- **Causal machine learning:** heterogeneous treatment effects in clinical trials.
 
 During my PhD, I worked on Bayesian methods, Bayesian nonparametrics, random partition models, random measures, point processes, repulsive mixture models, spatio-temporal and functional data analysis, causal inference, and biomedical applications.
 

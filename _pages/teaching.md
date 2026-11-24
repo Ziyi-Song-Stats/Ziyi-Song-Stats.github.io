@@ -9,8 +9,8 @@ permalink: /teaching/
 
 - STATS 295: Causal Machine Learning (Fall 2024)
 - STATS 225: Bayesian Statistical Analysis (Spring 2026)
-- STATS 210: Statistical Methods I (Fall 2024, Fall 2025)
-- STATS 211P: Statistical Methods II (Spring 2024)
+- STATS 210: Statistics Methods I (Fall 2024, Fall 2025)
+- STATS 211P: Statistics Methods II (Spring 2024)
 - STATS 200A: Intermediate Probability and Statistical Theory (Fall 2025)
 - STATS 120A/281A: Introduction to Probability and Statistics I (Fall 2023)
 - STATS 68: Statistical Computing and Exploratory Data Analysis (Spring 2023)
