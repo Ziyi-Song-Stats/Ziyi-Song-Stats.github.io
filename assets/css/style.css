@@ -109,6 +109,32 @@ a { color: inherit; }
 .page-content a:hover { box-shadow: 0 2px 0 currentColor; }
 .muted { color: var(--muted); }
 
+/* Long pages split into sections (e.g. Experience) */
+.page-toc {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  margin: -8px 0 8px;
+}
+.page-toc a {
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: var(--bg-home);
+  border: 1px solid var(--border);
+  text-decoration: none;
+  font-size: 15px;
+}
+.page-content .page-toc a,
+.page-content .page-toc a:hover { box-shadow: none; }
+.page-toc a:hover { background: var(--button); }
+.sectioned .page-content h2 {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  scroll-margin-top: 16px;
+}
+.sectioned .page-content h3 { color: var(--muted); font-size: 17px; }
+
 /* ---------- Home / profile ---------- */
 .main-home {
   flex: 1;

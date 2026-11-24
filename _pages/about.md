@@ -17,7 +17,7 @@ I develop machine learning and statistical methods for reliable AI in science, w
 - **Probabilistic machine learning:** Bayesian nonparametrics, mixture models and clustering, determinantal point processes, and MCMC algorithms.
 - **Causal machine learning:** heterogeneous treatment effects in clinical trials.
 
-During my PhD, I worked on Bayesian methods, Bayesian nonparametrics, random partition models, random measures, point processes, repulsive mixture models, spatio-temporal and functional data analysis, causal inference, and biomedical applications.
+During my PhD, I worked on Bayesian methods, Bayesian nonparametrics, repulsive mixture models, point processes, spatio-temporal and functional data analysis, and causal inference, with applications in biomedicine.
 
 ## Education
 
